@@ -1,7 +1,7 @@
 import requests
 import streamlit as st
 
-url = "https://27a6-86-234-101-228.eu.ngrok.io"
+url = "https://16f2-185-175-148-123.eu.ngrok.io"
 
 st.title("Predict a car price")
 
